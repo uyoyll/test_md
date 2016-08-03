@@ -1,0 +1,3 @@
+```ruby
+put "Hello world!"
+```
